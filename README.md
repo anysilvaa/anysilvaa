@@ -1,16 +1,13 @@
-## Hi there 👋
+# LulaFlix
 
-<!--
-**anysilvaa/anysilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+88888*88888888***Olá, eu sou a Kauany Silva
 
-Here are some ideas to get you started:
+tenho 15 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante do 1 Ano do Ensino Médio
+
+Estudante de programação
+
+Aprendendo HTML,CSS, javaScript e Python
+
+entre em contato: s.kauany03@escola.pr.gov.br
